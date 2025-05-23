@@ -56,8 +56,8 @@ Here's a quick look at the raymarcher in action:
 
 ## Reference
 
- [Ray marching](https://en.wikipedia.org/wiki/Ray_marching)
- [What is Ray Marching?]( https://youtu.be/TSAIR03FPfY)
+- [Ray marching](https://en.wikipedia.org/wiki/Ray_marching)
+- [What is Ray Marching?]( https://youtu.be/TSAIR03FPfY)
 
 
 
