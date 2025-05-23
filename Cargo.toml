@@ -1,0 +1,12 @@
+[package]
+name = "metal-raymarcher"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+metal = "0.24"
+winit = "0.28"
+objc = "0.2.7"
+cocoa = "0.24"
+foreign-types = "0.3"
+cgmath = "0.18"  # For math utilities
